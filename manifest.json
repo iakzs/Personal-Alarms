@@ -1,7 +1,7 @@
 {
-    "name": "personalized-alarms",
+    "name": "personal-alarms",
     "version": "0.0.4",
-    "description": "Create personalized alarms",
+    "description": "Create personal and personalized alarms",
     "manifest_version": 2,
     "icons": {
         "16": "assets/images/icon16.png",
